@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785743227302",
+    "firebase_url": "https://pantau-d0ef6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pantau-d0ef6",
+    "storage_bucket": "pantau-d0ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785743227302:android:e04269581e0a0ce6810767",
+        "android_client_info": {
+          "package_name": "com.pantau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785743227302-c044cfnsguklr0a4950d3nusifesu940.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb4-9Z7sc3LEwNNMsZ9THWq_hFkteCkaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785743227302-c044cfnsguklr0a4950d3nusifesu940.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
